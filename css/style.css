@@ -79,3 +79,16 @@ span {
         display: none;
     }
 }
+
+
+.container {
+  width: 90%;
+  max-width: 1200px;
+  
+}
+
+
+
+footer a:hover {
+  color: #7b2ff7 !important; 
+}
